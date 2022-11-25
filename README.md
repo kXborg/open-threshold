@@ -1,2 +1,3 @@
-# open-threshold
-A simple application to perform thresholding on images.
+# OpenCV Threshold
+
+A simple application to perform thresholding using OpenCV.
