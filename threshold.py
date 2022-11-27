@@ -77,8 +77,6 @@ if img_file_buffer is not None:
 
 	display_colorsp(img)
 
-
-
 	type_thresh = { 'Binary': cv2.THRESH_BINARY,
 					'Binary Inv': cv2.THRESH_BINARY_INV,
 					'Trunc': cv2.THRESH_TRUNC
